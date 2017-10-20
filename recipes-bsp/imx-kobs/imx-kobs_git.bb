@@ -8,7 +8,7 @@ LIC_FILES_CHKSUM = "file://COPYING;md5=393a5ca445f6965873eca0259a17f833"
 PV = "5.5+git${SRCPV}"
 SRCREV = "b402243a04e5a6760a860445e5ff6a931d86f794"
 
-SRC_URI = "git://github.com/NXPmicro/imx-kobs.git;protocal=https \
+SRC_URI = "git://github.com/NXPmicro/imx-kobs.git;protocol=https \
            file://fix-compile.patch \
 "
 
